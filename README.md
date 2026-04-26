@@ -1,0 +1,1 @@
+A simple portfolio to house some of the projects we completed for this course. Interacting with it is self explanatory. Clicking each project shows you more details about it. Clicking "Visit Project" takes you to its associated repo or figma prototype. 
